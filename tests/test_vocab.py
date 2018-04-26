@@ -7,7 +7,7 @@ import sys
 import contextlib
 from vecto.vocabulary import create_from_dir, create_from_file, Vocabulary
 
-path_text = "./tests/data/corpora/plain"
+path_text = "./tests/data/corpora/plain/"
 path_text_file = "./tests/data/corpora/plain/sense_small.txt"
 path_vocab = "./tests/data/vocabs/plain"
 
